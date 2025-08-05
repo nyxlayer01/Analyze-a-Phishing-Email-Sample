@@ -1,0 +1,29 @@
+From: "PayPal Support" <support@paypal-security-alerts.com>
+To: user@example.com
+Subject: Action Required: Unusual Login Attempt Detected
+Reply-To: support@paypal-security-alerts.com
+X-Mailer: Microsoft Outlook 16.0
+X-Originating-IP: 185.123.45.67
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Dear Customer,
+
+We noticed a suspicious login attempt to your PayPal account from an unknown =
+device.
+
+Location: Russia (IP: 185.123.45.67)
+Time: 2025-08-04 03:45:22 UTC
+
+If this was not you, please secure your account immediately by following the =
+link below:
+
+https://paypal-security-center.com/login
+
+Failure to do so may result in temporary suspension of your account.
+
+Thank you for choosing PayPal.
+
+Sincerely,
+PayPal Security Team
