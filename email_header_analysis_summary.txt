@@ -1,0 +1,24 @@
+
+Email Header Analysis Summary
+=============================
+
+1. Originating IP:
+   - X-Originating-IP: 185.123.45.67
+   - Geolocation: Likely from Russia which is not associated with PayPal infrastructure.
+   - Risk: The origin is very suspicious, which is often seen in phishing or fraudulent emails
+
+2. Spoofed Domain:
+   - From: "PayPal Support" <support@paypal-security-alerts.com>
+   - Reply-To: support@paypal-security-alerts.com
+   - Observation: Domain 'paypal-security-alerts.com' is NOT a legitimate PayPal domain.
+   - Risk: Spoofing a trusted brand to deceive users and gain credentials.
+
+3. Missing Authentication (SPF/DKIM):
+   - No headers indicating SPF (Sender Policy Framework) validation
+   - No DKIM (DomainKeys Identified Mail) signature found
+   - Risk: Email authentication not enforced, making spoofing easier and harder to detect
+
+Conclusion:
+-----------
+The email is highly suspicious and likely a phishing attempt. It includes a spoofed PayPal domain,
+a suspicious IP origin, and lacks basic email authentication mechanisms.
