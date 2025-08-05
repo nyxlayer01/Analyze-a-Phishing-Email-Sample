@@ -19,6 +19,6 @@ Email Header Analysis Summary
    - Risk: Email authentication not enforced, making spoofing easier and harder to detect
 
 Conclusion:
------------
+===========
 The email is highly suspicious and likely a phishing attempt. It includes a spoofed PayPal domain,
 a suspicious IP origin, and lacks basic email authentication mechanisms.
